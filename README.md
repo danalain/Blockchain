@@ -1,7 +1,7 @@
 # Proof of Authority Development Chain
 ---
 
-<img src="Images/bc.PNG" width="800"/>
+<img src="Images/bc.png" width="800"/>
 
 ## Prompt
 
@@ -124,9 +124,9 @@ Following is the command for node4:
 
 <img src="Screenshots/mining-2.JPG" width="800" />
 
-5. Your private PoA blockchain should now be running!
+* Your private PoA blockchain should now be running!
 
-6. With both nodes up and running, the blockchain can be added to MyCrypto for testing.
+* With both nodes up and running, the blockchain can be added to MyCrypto for testing.
 
     * Open the MyCrypto app, then click `Change Network` at the bottom left:
 
@@ -146,7 +146,7 @@ Following is the command for node4:
 
     * Finally, click `Save & Use Custom Node`. 
 
-7. After connecting to the custom network in MyCrypto, it can be tested by sending money between accounts.
+* After connecting to the custom network in MyCrypto, it can be tested by sending money between accounts.
 
     * Select the `View & Send` option from the left menu pane, then click `Keystore file`.
 
@@ -178,7 +178,7 @@ Following is the command for node4:
 
     ![successful transaction](Images/transaction-status.png)
 
-Sometimes, you may have to wait longer than usual for the transaction to complete. Hence, the following transaction pending status in the image below:
+* Sometimes, you may have to wait longer than usual for the transaction to complete. Hence, the following transaction pending status in the image below:
 
 <img src="Screenshots/transaction-status.png" width="800" />
 
